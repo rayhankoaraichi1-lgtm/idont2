@@ -15,7 +15,7 @@ local WhitelistedUserIds = {
     7338092709,
     9321672815,
     
-}
+}1325278327,
 
 local WhitelistedNames = {
     "Not_happy300",
